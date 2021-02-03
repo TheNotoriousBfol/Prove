@@ -1,7 +1,7 @@
 ids,labels,parents
 Validation,Validator Professional Competence,
-Psk,Practical_Skills_and_Knowledge,Validation
-Psm,Professional_Self_Management,Validation
-Pva,Professional_Values_and_Attitudes,Validation
-Vfsk,Validation_Field_and_Specific_Knowledge,Validation
+PSK,Practical Skills and Knowledge,Validation
+PSM,Professional Self-Management,Validation
+PVA,Professional Values and Attitudes,Validation
+VFSK,Validation Field and Specific Knowledge,Validation
 
