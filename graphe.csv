@@ -1,17 +1,2 @@
 ids,labels,parents
 Validation,Validator Professional Competence,
-PSK,Practical Skills and Knowledge,Validation
-PSM,Professional Self-Management,Validation
-PVA,Professional Values and Attitudes,Validation
-VFSK,Validation Field and Specific Knowledge,Validation
-PSM-SR,Self-Regulation,PSM
-PSM-PD,Professional Development,PSM
-PSM-MO,Motivational Orientations,PSM
-PVA-PE,Professional Ethics,PVA
-PVA-PB,Professional Beliefs,PVA
-VFSK-VK,Validation Knowledge,VFSK
-VFSK-FK,Field Knowledge,VSK
-PSK-CI,Communication and Interaction,PSK
-PSK-CM,Coordination & Management,PSK
-PSK-DCA,Diagnosis and Competence Assessment,PSK
-PSK-GC,Guidance and Counselling,PSK
