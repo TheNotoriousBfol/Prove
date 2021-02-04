@@ -1,10 +1,11 @@
 ids,labels,parents
 Validation,Validator Professional<br>Competence,
-PSK,Practical Skills<br>& Knowledge,Validation
+PSK,Practical Skills<br>and Knowledge,Validation
 PSM,Professional Self<br>Management,Validation
 PVA,Professional Values<br>and Attitudes,Validation
 VFSK,Validation Field<br>Specific Knowledge,Validation
 PSK-CI,Communication and<br>Interaction,PSK
+PSK-CI-CS,Communicative Skills,PSK-CI
 PSK-CM,Coordination and<br>Management,PSK
 PSK-DCA,Diagnosis and<br>Competence Assessment,PSK
 PSK-GC,Guidance and<br>Counselling,PSK
@@ -15,3 +16,32 @@ PVA-PE,Professional<br>Ethics,PVA
 PVA-PB,Professional<br>Beliefs,PVA
 VFSK-VK,Validation<br>Knowledge,VFSK
 VFSK-FK,Field<br>Knowledge,VFSK
+PSK-CI-F,(Formative)Feedback,PSK-CI
+PSK-CI-D,Diversity,PSK-CI
+PSK-CI-TGO,Target Group<br>Orientation,PSK-CI
+PSK-CM-qm,Quality Management,PSK-CM
+PSK-CM-m,Management,PSK-CM
+PSK-CM-nc,Networking<br>&Cooperation,PSK-CM
+PSK-DCA-AM,(Self-)Assessment<br>Methods,PSK-DCA
+PSK-DCA-DTC,Diagnostic and Translation<br>Competence,PSK-DCA
+PSK-DCA-CD,Competence<br>Documentation,PSK-DCA
+PSK-DCA-C,Certification,PSK-DCA
+PSK-GC-me,Motivation &<br>Empowerment,PSK-GC
+PSK-GC-dm,Didactics &Methods,PSK-GC
+PSK-GC-lvg,Learning/Vocational<br>Guidance,PSK-GC
+PSM-SR-CD,Commitment<br>and Distance,PSM-SR
+PSM-SR-RCA,Role and Context<br>Awareness,PSM-SR
+PSM-PD-CL,Continuous Learning,PSM-PD
+PSM-PD-SR,Self-Reflection,PSM-PD
+PSM-MO-SEB,Self-Efficacy Beliefs,PSM-MO
+PSM-MO-E,Enthusiasm,PSM-MO
+PVA-PE-PC,Person Centricity,PVA-PE
+PVA-PE-ESV,Educational&<br>Social Values,PVA-PE
+PVA-PB-AT,Ambiguity Tolerance,PVA-PB
+PVA-PB-PI,Professional<br>Identification,PVA-PB
+VFSK-VK-SP,Strategies<br>and Policies,VFSK-VK
+VFSK-VK-PVS,Procedure and<br>Validation Standards,VFSK-VK
+VFSK-FK-CIF,Context and <br>Institutional Framework,VFSK-FK
+VFSK-FK-PFSME,Professional Fields<br>&Subject Matter<br>Expertise,VFSK-FK
+VFSK-FK-A,Addressees,VFSK-FK
+VFSK-FK-FSS,Field Specific<br>Stakeholder,VFSK-FK
